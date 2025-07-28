@@ -148,7 +148,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="relative z-10 text-center text-sm text-gray-500 mt-10 border-t border-gray-700 pt-4">
-          © 2024, Eventek All Rights Reserved.
+          © 2025, Akhfabgss All Rights Reserved.
         </div>
       </div>
     </footer>

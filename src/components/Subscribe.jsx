@@ -37,7 +37,7 @@ const Subscribe = () => {
         <div className="max-w-6xl w-full grid md:grid-cols-2 gap-8 mx-20 my-auto">
             
             {/* Kiri - Konten Teks */}
-            <div className="text-white space-y-4 flex flex-col justify-center">
+            <div className="text-white space-y-4 flex flex-col justify-center mx-4 md:mx-0">
             <p className="text-sm text-yellow-300 font-medium">Get every update</p>
             <h2 className="text-3xl md:text-4xl font-bold leading-tight">
                 Ketik email untuk dapatkan pricelist InspiraDaya!
@@ -56,7 +56,7 @@ const Subscribe = () => {
                     />
                     <button 
                     type="submit" 
-                    className="bg-white hover:bg-gray-200 text-[#00359C] font-semibold px-6"
+                    className="bg-white hover:bg-gray-200 text-[#00359C] text-sm md:text-md font-semibold px-4 md:px-6 flex items-center"
                     disabled={loading}>
                         {loading ? 'Sending...' : 'Subscribe'} <i className="ri-arrow-right-s-line"></i>
                     </button>
