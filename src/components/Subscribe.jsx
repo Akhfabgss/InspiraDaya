@@ -67,7 +67,7 @@ const Subscribe = () => {
             {/* Kanan - Ilustrasi/Gambar */}
             <div className="flex justify-center md:justify-end">
             <img
-                src="/public/assets/sendEmail-image.png"
+                src="/assets/sendEmail-image.png"
                 alt="Subscribe visual"
                 className="w-full md:w-full"
             />
