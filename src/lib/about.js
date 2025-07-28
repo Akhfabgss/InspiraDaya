@@ -1,7 +1,7 @@
 const aboutTabs = {
   siapa: {
     title: "Kami hadir sejak tahun 2024",
-    content: "Inspirdaya adalah agensi kreatif yang berfokus pada solusi digital dan branding yang berdampak. Kami membantu brand, bisnis, dan komunitas untuk tumbuh dengan ide-ide kreatif, desain yang kuat, dan strategi komunikasi yang relevan. Dengan semangat kolaborasi dan inovasi, kami hadir bukan hanya untuk membuat konten menarik, tapi juga menciptakan pengalaman yang menginspirasi dan menggerakka",
+    content: "Inspirdaya adalah agensi kreatif yang berfokus pada solusi digital dan branding yang berdampak. Kami membantu brand, bisnis, dan komunitas untuk tumbuh dengan ide-ide kreatif, desain yang kuat, dan strategi komunikasi yang relevan. Dengan semangat kolaborasi dan inovasi, kami hadir bukan hanya untuk membuat konten menarik, tapi juga menciptakan pengalaman yang menginspirasi",
     button: "Tim InspiraDaya"
   },
   visi: {
