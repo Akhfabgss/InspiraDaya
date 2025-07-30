@@ -34,7 +34,7 @@ const Subscribe = () => {
   return (
     <section id='Subscribe' className="w-full mx-auto items-center mt-10 mb-10">
         <div className="flex justify-center bg-[#00359C] py-12">
-        <div className="max-w-6xl w-full grid md:grid-cols-2 gap-8 mx-20 my-auto">
+        <div className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-2 gap-8 md:mx-20 my-auto">
             
             {/* Kiri - Konten Teks */}
             <div className="text-white space-y-4 flex flex-col justify-center mx-4 md:mx-0">
