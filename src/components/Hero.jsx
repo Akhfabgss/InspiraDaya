@@ -18,7 +18,7 @@ const Hero = () => {
             <p className='text-sm md:text-lg'>Kami adalah agensi kreatif berbasis teknologi yang membantu UMKM, startup, dan korporasi membangun identitas digital yang kuat dan berdampak. Mulai dari branding hingga solusi digital interaktif, kami hadir untuk mempercepat transformasi digital Anda.</p>
 
             <div className='flex items-center mt-5'>
-                <a href='#'className="flex items-center space-x-2 bg-transparent hover:bg-[#00359C] text-[#00359C] hover:text-white font-medium border-2 border-[#00359C] hover:border-transparent rounded px-4 py-3 transition duration-300 ease-in-out w-fit"
+                <a href='https://linktr.ee/Inspiradaya'className="flex items-center space-x-2 bg-transparent hover:bg-[#00359C] text-[#00359C] hover:text-white font-medium border-2 border-[#00359C] hover:border-transparent rounded px-4 py-3 transition duration-300 ease-in-out w-fit"
                 >
                 Explore More <i className="ri-arrow-right-s-line"></i>
                 </a>

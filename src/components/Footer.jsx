@@ -2,9 +2,9 @@ import React from 'react'
 import topBg from '/assets/Footer/footer.jpg';    
 import bottomBg from '/assets/Footer/footer2.jpg';
 import {
-  IconBrandFacebook,
+  IconBrandTiktok,
   IconBrandLinkedin,
-  IconBrandGithub,
+  IconBrandShopee,
   IconBrandInstagram,
 } from "@tabler/icons-react";
 
@@ -71,15 +71,15 @@ const Footer = () => {
 
             <div className="flex gap-4 mt-4 ">
               <a
-                href="https://facebook.com"
+                href="https://www.tiktok.com/@inspiradaya_id"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-colors duration-200 text-white hover:text-blue-500"
               >
-                <IconBrandFacebook size={22} />
+                <IconBrandTiktok size={22} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/company/inspira-daya/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-colors duration-200 text-white hover:text-blue-500"
@@ -87,20 +87,20 @@ const Footer = () => {
                 <IconBrandLinkedin size={22} />
               </a>
               <a
-                href="https://github.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="transition-colors duration-200 text-white hover:text-blue-500"
-              >
-                <IconBrandGithub size={22} />
-              </a>
-              <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/inspiradaya/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-colors duration-200 text-white hover:text-blue-500"
               >
                 <IconBrandInstagram size={22} />
+              </a>
+              <a
+                href="https://shopee.co.id/inspiradaya.id/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="transition-colors duration-200 text-white hover:text-blue-500"
+              >
+                <IconBrandShopee size={22} />
               </a>
             </div>
           </div>

@@ -1,38 +1,38 @@
 const reasons = [
   {
     id: "01",
-    title: "Gratis Plugin Premium",
-    description: "Kami menyertakan plugin dan tools premium tanpa biaya tambahan untuk memperkuat solusi Anda.",
+    title: "Harga Transparan",
+    description: "Biaya dijelaskan sejak awal tanpa biaya tersembunyi, sehingga Anda dapat menyesuaikan layanan dengan anggaran yang dimiliki.",
     active: false,
   },
   {
     id: "02",
-    title: " Gratis Konsultasi 2 Bulan",
-    description: "Setiap klien mendapatkan dukungan konsultasi kreatif selama 2 bulan penuh.",
+    title: "Konsultasi Gratis",
+    description: "Diskusikan kebutuhan proyek Anda terlebih dahulu untuk mendapatkan solusi yang tepat sebelum memulai pengerjaan.",
     active: true,
   },
   {
     id: "03",
-    title: "Strategi Branding yang Tepat Sasaran",
-    description: "Kami tidak hanya membuat desain bagus, tapi juga strategi yang sesuai pasar Anda.",
+    title: "Solusi Sesuai Kebutuhan",
+    description: "Setiap layanan disesuaikan dengan tujuan, target, dan kebutuhan bisnis maupun personal Anda.",
     active: false,
   },
-{
+  {
     id: "04",
-    title: "Tim yang Berpengalaman",
-    description: "Dikerjakan oleh tim profesional dengan pengalaman di industri kreatif dan teknologi.",
+    title: "Fast Response",
+    description: "Kami mengutamakan komunikasi yang cepat dan jelas agar setiap proyek berjalan dengan lancar.",
     active: false,
   },
-{
+  {
     id: "05",
     title: "Proses Cepat & Terstruktur",
-    description: "Proses kerja kami efisien dengan tahapan jelas agar proyek selesai tepat waktu.",
+    description: "Pengerjaan dilakukan melalui tahapan yang jelas untuk memastikan kualitas dan ketepatan waktu.",
     active: false,
   },
   {
     id: "06",
-    title: "Revisi Tanpa Batas",
-    description: "Kami terbuka untuk revisi agar hasil akhir sesuai ekspektasi Anda dengan biaya yang transparan.",
+    title: "Support Setelah Selesai",
+    description: "Kami tetap siap membantu apabila terdapat kendala atau pertanyaan setelah layanan selesai diberikan.",
     active: false,
   },
 ];

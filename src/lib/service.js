@@ -6,17 +6,17 @@ const Service = [
   },
   {
     icon: '/assets/Service/service2.png',
-    description: 'Video Editing & Animation',
+    description: 'Social Media Services',
     shadowHover: 'hover:shadow-[0_15px_15px_rgba(254,137,93,0.5)]',
   },
   {
     icon: '/assets/Service/service3.png',
-    description: 'Design & Creative',
+    description: 'Creative & Design',
     shadowHover: 'hover:shadow-[0_15px_15px_rgba(35,224,202,0.5)]',
   },
   {
     icon: '/assets/Service/service4.png',
-    description: 'Branding & Marketing',
+    description: 'Marketing & Business Growth',
     shadowHover: 'hover:shadow-[0_15px_15px_rgba(254,53,111,0.5)]',
   },
 ];

@@ -2,12 +2,12 @@ const teamMembers = [
   {
     name: "Raivio Rizki Rahman",
     position: "Founder",
-    image: "/assets/Team/team3.jpg", 
+    image: "/assets/Team/rai.jpg", 
   },
   {
     name: "Dhiyaurahman Hamizan",
     position: "CEO & Co-Founder",
-    image: "/assets/Team/team2.jpg",
+    image: "/assets/Team/dio.jpg",
   },
   {
     name: "Akhfa Bagas Alfarizi",
