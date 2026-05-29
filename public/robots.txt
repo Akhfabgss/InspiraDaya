@@ -1,11 +1,11 @@
 # robots.txt for InspiraDaya
-# https://inspiradaya.com
+# https://inspira-daya.vercel.app
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://inspiradaya.com/sitemap.xml
+Sitemap: https://inspira-daya.vercel.app/sitemap.xml
 
 # Disallow admin or private paths
 Disallow: /api/
